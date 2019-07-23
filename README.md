@@ -1,2 +1,1 @@
-# bionic-go
-Ubuntu 18.04 with Golang Docker image
+https://gitlab.com/dwalintukan/bionic-go
